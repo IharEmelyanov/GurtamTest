@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gurtam Test</string>
+    <string name="prime_generator">prime generator</string>
+    <string name="upper_limit">Upper limit</string>
+    <string name="generate">generate</string>
+    <string name="wrong_upper_limit_format">Wrong upper limit format</string>
+    <string name="stop">stop</string>
+</resources>
